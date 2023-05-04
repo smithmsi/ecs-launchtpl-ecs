@@ -1,0 +1,13 @@
+subnet_id = ""
+sg_id  = ""
+ami_id = ""
+key_name = ""
+cluster_name = ""
+instance_type = ""
+autoscaling_group_name = ""
+lauch_template_name = ""
+autoscaling_policy_name = ""
+max_size = 3
+min_size = 1
+desired_capacity = 3
+name = ""
